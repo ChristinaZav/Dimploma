@@ -1,0 +1,135 @@
+body {
+    background-image: url("../images/lemon.jpg");
+    background-size: cover;
+}
+.sign_in_central_container {
+    padding-top: 100px;
+    padding-bottom: 103px;
+}
+
+.sign_in_field {
+    background-color: white;
+    opacity: 0.9;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    border-radius: 100px;
+
+}
+
+.sign_in_field input { width: 300px;
+    height: 100px;
+    border: none;
+    padding-left: 100px;
+    display: block;
+    margin: 0 auto;
+    outline: none;
+
+}
+
+.sign_in_field button {
+
+    display: block;
+    margin: 0 auto;
+    background-color: black;
+    color: white;
+    border-radius: 100px;
+    outline: none;
+    width: 130px;
+    height: 50px;
+    margin-top: 20px;
+
+}
+
+.sign_in_field i.fas {
+
+    width: 26px;
+    height: 26px;
+    line-height: 26px;
+    text-align: center;
+
+
+    position: relative;
+    z-index: 1;
+    float: left;
+    padding-top: 35px;
+    padding-left: 30px;
+
+}
+.navbar-expand-lg {
+    height: 100px;
+}
+
+.nav-link {
+
+    margin-right: 20px;
+    font-size: 20px; }
+
+
+.img_logo{
+    width: 250px;
+    margin-right: 600px;
+
+
+}
+
+
+footer .nav-link { margin-right: 200px; }
+
+footer a img{ margin-right: 450px;
+    width: 250px;
+}
+
+
+.authors {
+    color: #D3D3D3;
+    font-size: 15px;
+    padding-left: 300px;
+}
+.author {
+    color: #D3D3D3;
+    font-size: 15px;
+    position: center;
+}
+
+
+.sign {
+    font-family: 'Pacifico', sans-serif;
+    min-height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 6rem;
+    padding-top: 30px;
+    text-align: center;
+    line-height: 1;
+    color: #343a40;
+    opacity: 0.9;
+    animation: neon .08s ease-in-out infinite alternate;
+}
+
+.btn-outline-success {
+    padding: 32px;
+}
+@keyframes neon {
+    from {
+        text-shadow:
+                0 0 6px rgba(202,228,225,0.92),
+                0 0 30px rgba(202,228,225,0.34),
+                0 0 12px yellow,
+                0 0 21px #F0E68C,
+                0 0 34px #FFE4B5,
+                0 0 54px #FFD700;
+    }
+    to {
+        text-shadow:
+                0 0 6px rgba(202,228,225,0.98),
+                0 0 30px rgba(202,228,225,0.42),
+                0 0 12px yellow,
+                0 0 22px #F0E68C,
+                0 0 38px #FFE4B5,
+                0 0 60px #FFD700;
+    }
+
+}

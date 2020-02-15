@@ -1,0 +1,184 @@
+* {
+    padding: 0;
+    margin: 0; }
+
+body { background-color: black }
+
+.nav-link {
+
+    margin-right: 20px;
+    font-size: 20px;
+
+}
+
+.central_container button {
+    width: 100%;
+
+}
+.btn {
+    margin-right: 10px;
+    color: #005cbf;
+
+}
+
+.central_container {
+    padding-top: 400px;
+    padding-bottom: 400px;
+}
+
+.central_container input {
+    height: 50px;
+    width: 120%;
+    border: transparent solid ;
+    border-radius: 100px;
+    padding: 0 20px;
+    position: relative;
+    bottom: 200px;
+    left: 100px;
+    z-index: 10000;
+    outline: none;
+}
+.central_container button {
+    width:30%;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 100px;
+    border:  white;
+    border-width: 2px;
+    position: absolute;
+    left: 160px;
+    bottom: 200px;
+    z-index: 10000;
+
+}
+
+.img_logo{
+    width: 250px;
+    margin-right: 600px;
+
+
+}
+.our_advantages {
+    background-image: url("../images/lemon.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 50px;
+    padding-bottom: 100px;
+
+}
+
+
+h1 {font-family: 'Sriracha', cursive;
+    font-weight: 400;
+padding-bottom: 50px;
+}
+
+.about_us img {
+width: 80%;
+    height: 70%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.about_us img:hover {
+
+    width: 80%;
+    height: 70%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.border_1 {
+    border: black solid 1px;
+    width: 60%;
+display: block;
+margin: 0 auto;
+}
+
+.border_2 {
+    border: black solid 1px;
+    width: 60%;
+    display: block;
+    margin: 0 auto;
+}
+
+p {
+    padding-top: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+
+}
+
+.authors {
+     color: #D3D3D3;
+     font-size: 15px;
+    padding-left: 300px;
+ }
+.author {
+    color: #D3D3D3;
+    font-size: 15px;
+    position: center;
+}
+
+footer .nav-link { margin-right: 200px; }
+
+footer a img{ margin-right: 450px;
+width: 250px;
+}
+
+
+img {
+    width: 100%;
+    img-repeat: no-repeat;
+    img-position: absolute;
+}
+
+.sim-slider {
+    padding-bottom: 190px;
+
+}
+
+/* General styles */
+.sim-slider {
+    position: relative;
+}
+
+.sim-slider-list {
+
+    list-style-type: none;
+    position: relative;
+}
+
+.sim-slider-element {
+    width: 100%;
+    transition: opacity 1s ease-in;
+    opacity: 0;
+    position: absolute;
+    z-index: 2;
+    left: 0;
+    top: -16px;
+    display: block;
+}
+
+
+@import 'https://fonts.googleapis.com/css?family=Roboto+Mono:100';
+
+.container {
+    height: 130% ;
+    width: 130% ;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    display: flex;
+}
+.text {
+font-weight: 100;
+font-size: 60px ;
+color: black;
+    font-weight: lighter;
+}
+
+
