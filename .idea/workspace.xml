@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf2c29b6-6c1f-4740-929d-d5fa6124986e" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+>>>>>>> c05283a4a78afb8ee4d12954e74f3c9458bb9c44
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +46,18 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -73,20 +90,41 @@
       <workItem from="1581539191909" duration="61000" />
       <workItem from="1581703396382" duration="3059000" />
       <workItem from="1581706866141" duration="2963000" />
+<<<<<<< HEAD
       <workItem from="1581771902791" duration="2184000" />
       <workItem from="1581774922980" duration="563000" />
       <workItem from="1581775516703" duration="337000" />
       <workItem from="1581775856906" duration="35000" />
+=======
+      <workItem from="1581771902791" duration="262000" />
+      <workItem from="1581774436352" duration="151000" />
+      <workItem from="1581774605423" duration="1188000" />
+>>>>>>> c05283a4a78afb8ee4d12954e74f3c9458bb9c44
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+<<<<<<< HEAD
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
+=======
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+>>>>>>> c05283a4a78afb8ee4d12954e74f3c9458bb9c44
   </component>
   <component name="WindowStateProjectService">
     <state x="501" y="217" key="FileChooserDialogImpl" timestamp="1581775853271">
