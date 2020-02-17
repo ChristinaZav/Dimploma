@@ -1,6 +1,6 @@
 .sign_in_central_container {
 
-    background-image: url("../images/sign_in_background.jpg");
+    background-image: url("../images/lemon.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -87,4 +87,46 @@ footer a img{ margin-right: 450px;
     color: #D3D3D3;
     font-size: 15px;
     position: center;
+}
+.sign {
+    font-family: 'Pacifico', sans-serif;
+    min-height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 6rem;
+    padding-top: 0px;
+    padding-bottom: 70px;
+    text-align: center;
+    line-height: 1;
+    color: #343a40;
+    opacity: 0.9;
+    animation: neon .08s ease-in-out infinite alternate;
+}
+
+.btn-outline-success {
+    padding: 32px;
+}
+@keyframes neon {
+    from {
+        text-shadow:
+                0 0 6px rgba(202,228,225,0.92),
+                0 0 30px rgba(202,228,225,0.34),
+                0 0 12px yellow,
+                0 0 21px #F0E68C,
+                0 0 34px #FFE4B5,
+                0 0 54px #FFD700;
+    }
+    to {
+        text-shadow:
+                0 0 6px rgba(202,228,225,0.98),
+                0 0 30px rgba(202,228,225,0.42),
+                0 0 12px yellow,
+                0 0 22px #F0E68C,
+                0 0 38px #FFE4B5,
+                0 0 60px #FFD700;
+    }
+
 }
