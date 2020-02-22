@@ -1,10 +1,11 @@
+nav { background-color: black;}
 body {
     background-image: url("../images/lemon.jpg");
     background-size: cover;
 }
 .sign_in_central_container {
     padding-top: 100px;
-    padding-bottom: 103px;
+    padding-bottom: 120px;
 }
 
 .sign_in_field {
@@ -46,8 +47,6 @@ body {
     height: 26px;
     line-height: 26px;
     text-align: center;
-
-
     position: relative;
     z-index: 1;
     float: left;
@@ -60,25 +59,19 @@ body {
 }
 
 .nav-link {
-
     margin-right: 20px;
     font-size: 20px; }
 
 
 .img_logo{
     width: 250px;
-    margin-right: 600px;
-
-
-}
-
+    margin-right: 600px;}
 
 footer .nav-link { margin-right: 200px; }
 
 footer a img{ margin-right: 450px;
     width: 250px;
 }
-
 
 .authors {
     color: #D3D3D3;
@@ -91,20 +84,18 @@ footer a img{ margin-right: 450px;
     position: center;
 }
 
-
 .sign {
-    font-family: 'Pacifico', sans-serif;
+    font-family: 'Montserrat';
     min-height: 100%;
-
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    font-size: 6rem;
+    font-size: 5.5rem;
     padding-top: 30px;
     text-align: center;
     line-height: 1;
-    color: #343a40;
+    color: black;
     opacity: 0.9;
     animation: neon .08s ease-in-out infinite alternate;
 }
@@ -112,6 +103,7 @@ footer a img{ margin-right: 450px;
 .btn-outline-success {
     padding: 32px;
 }
+/*
 @keyframes neon {
     from {
         text-shadow:
@@ -132,4 +124,4 @@ footer a img{ margin-right: 450px;
                 0 0 60px #FFD700;
     }
 
-}
+}*/

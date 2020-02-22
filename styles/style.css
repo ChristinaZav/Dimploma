@@ -1,34 +1,27 @@
 nav { background-color: black;}
 
 .navbar a {
-
     color:white  ;
 }
 
-
 .navbar a:hover {color: #1e7e34;}
-
 * {
     padding: 0;
     margin: 0; }
 
-body { background-color: black }
+body { background-color: white }
 
 .nav-link {
-
     margin-right: 20px;
     font-size: 20px;
-
 }
 
 .central_container button {
     width: 100%;
-
 }
+
 .btn {
     margin-right: 10px;
-
-
 }
 
 .central_container {
@@ -48,6 +41,7 @@ body { background-color: black }
     z-index: 10000;
     outline: none;
 }
+
 .central_container button {
     width:30%;
     height: 50px;
@@ -59,15 +53,13 @@ body { background-color: black }
     left: 160px;
     bottom: 200px;
     z-index: 10000;
-
 }
 
 .img_logo{
     width: 250px;
     margin-right: 600px;
-
-
 }
+
 .our_advantages {
     background-image: url("../images/lemon.jpg");
     background-position: center center;
@@ -75,7 +67,6 @@ body { background-color: black }
     background-size: cover;
     padding-top: 50px;
     padding-bottom: 100px;
-
 }
 
 
@@ -90,6 +81,7 @@ width: 80%;
     margin-top: 40px;
     margin-bottom: 40px;
 }
+
 .about_us img:hover {
 
     width: 80%;
@@ -119,36 +111,30 @@ p {
     padding-top: 20px;
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
-
 }
 
 .authors {
      color: #D3D3D3;
      font-size: 15px;
-    padding-left: 300px;
+    position: relative;
+    padding-left: 270px;
  }
+
 .author {
     color: #D3D3D3;
     font-size: 15px;
     position: center;
 }
 
-footer .nav-link { margin-right: 200px; }
-
-footer a img{ margin-right: 450px;
-width: 250px;
-}
-
-
 img {
     width: 100%;
+    height: 10%;
     img-repeat: no-repeat;
     img-position: absolute;
 }
 
 .sim-slider {
     padding-bottom: 190px;
-
 }
 
 /* General styles */
@@ -184,6 +170,7 @@ img {
     margin-bottom: 20px;
     display: flex;
 }
+
 .text {
 font-weight: 100;
 font-size: 60px ;
@@ -191,4 +178,22 @@ color: black;
     font-weight: lighter;
 }
 
+footer .nav-link { margin-right: 200px; }
 
+footer a img{ margin-right: 450px;
+    width: 250px;
+}
+
+.img_local_ua {
+  width: 30px;
+    position: relative;
+    padding-top: 90px;
+
+}
+
+.img_local_en {
+    width: 30px;
+    position: relative;
+    padding-top: 90px;
+    margin-left: 5px;
+}

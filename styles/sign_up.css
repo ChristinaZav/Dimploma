@@ -1,3 +1,5 @@
+nav { background-color: black;}
+
 .sign_in_central_container {
 
     background-image: url("../images/lemon.jpg");
@@ -88,20 +90,19 @@ footer a img{ margin-right: 450px;
     font-size: 15px;
     position: center;
 }
-.sign {
-    font-family: 'Pacifico', sans-serif;
-    min-height: 100%;
 
+.sign {
+    font-family: 'Montserrat';
+    min-height: 100%;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    font-size: 6rem;
-    padding-top: 0px;
+    font-size: 5.5rem;
     padding-bottom: 70px;
     text-align: center;
     line-height: 1;
-    color: #343a40;
+    color: black;
     opacity: 0.9;
     animation: neon .08s ease-in-out infinite alternate;
 }
@@ -109,6 +110,7 @@ footer a img{ margin-right: 450px;
 .btn-outline-success {
     padding: 32px;
 }
+/*
 @keyframes neon {
     from {
         text-shadow:
@@ -128,5 +130,7 @@ footer a img{ margin-right: 450px;
                 0 0 38px #FFE4B5,
                 0 0 60px #FFD700;
     }
+*/
 
-}
+/*
+}*/
