@@ -35,3 +35,63 @@ footer a img{ margin-right: 450px;
     position: center;
 }
 
+.delivery_central_container {
+    background-image: url("../images/image2.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+
+}
+
+/*input { margin: 0 100px; }*/
+
+.delivery_central_container p {
+    display: inline-block;
+    /*margin: 10px 50px;*/
+}
+
+input {display: inline-block;
+}
+
+/*.name_sign {position: absolute;*/
+/*right: 1029px;*/
+/*}*/
+
+/*.name_input { margin-left: 80px;*/
+/*}*/
+
+/*.shop_sign { position: absolute;*/
+/*right: 997px;}*/
+
+/*.shop_input { margin-left: 80px;margin-top: 10px; }*/
+
+/*.number_sign {position: absolute;*/
+/*    right: 935px; }*/
+
+/*.number_input { margin-left: 80px;*/
+/*margin-top: 10px;}*/
+
+/*.home_sign {position: absolute;*/
+/*    right: 940px;}*/
+
+/*.home_input {margin-left: 80px;*/
+/*    margin-top: 10px;}*/
+
+
+
+/*.appartament_sign { position: absolute;*/
+/*    right: 940px; }*/
+
+/*.appartament_input { margin-left: 80px;*/
+/*    margin-top: 10px;}*/
+
+/*.flour_sign {position: absolute;*/
+/*    right: 940px;}*/
+
+/*.flour_input {*/
+/*    margin-left: 80px;*/
+/*    margin-top: 10px;*/
+
+/*}*/
+

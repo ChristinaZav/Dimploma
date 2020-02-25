@@ -32,41 +32,49 @@ footer a img{ margin-right: 450px;
 }
 
 .recognize_central_container {
-    background-image: url("../images/rec.jpg");
+    padding-top: 100px;
+    padding-bottom: 100px   ;
+    background-image: url("../images/image2.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 
 }
 
-/*.recognize_central_containerr {*/
-/*    padding-top: 400px;*/
-/*    padding-bottom: 400px;*/
-/*    background-image: url("../images/recognize.jpg");*/
-/*}*/
+h3 { padding-bottom:100px;
+color: white;}
 
-/*.recognize_central_container input {*/
-/*    height: 50px;*/
-/*    width: 120%;*/
-/*    border: transparent solid ;*/
-/*    border-radius: 100px;*/
-/*    padding: 0 20px;*/
-/*    position: relative;*/
-/*    bottom: 200px;*/
-/*    left: 100px;*/
-/*    z-index: 10000;*/
-/*    outline: none;*/
-/*}*/
-/*.recognize_central_container button {*/
-/*    width:30%;*/
-/*    height: 50px;*/
-/*    font-size: 20px;*/
-/*    border-radius: 100px;*/
-/*    border:  white;*/
-/*    border-width: 2px;*/
-/*    position: absolute;*/
-/*    left: 160px;*/
-/*    bottom: 200px;*/
-/*    z-index: 10000;*/
 
-/*}*/
+input {
+    height: 50px;
+    width: 135%;
+border-radius: 100px;
+    padding-left: 20px;
+    outline: none;
+    border: transparent;
+
+}
+
+.enter_action {
+    width:20%;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 100px;
+    border:  white;
+    position: absolute;
+    left: 200px;
+
+
+}
+
+.main_table {
+    margin-top: 50px;
+
+}
+
+
+.under_table button { background-color: #c69500;
+margin: 10px 10px;
+    border-radius: 100px;
+    color: white;
+}
