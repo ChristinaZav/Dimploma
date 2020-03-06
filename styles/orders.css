@@ -34,3 +34,14 @@ footer a img{ margin-right: 450px;
     font-size: 15px;
     position: center;
 }
+
+.orders_central_container {
+    background-image: url("../images/rec.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    padding: 100px 0px 280px;
+}
+
+h3  {padding: 0 0 30px;}
