@@ -1,13 +1,17 @@
 nav { background-color: black;}
 
+
+
 * {
     padding: 0;
     margin: 0; }
 
+
 .nav-link {
 
     margin-right: 20px;
-    font-size: 20px; }
+    font-size: 20px;
+color: white;}
 
 
 .img_logo{
@@ -44,7 +48,7 @@ footer a img{ margin-right: 450px;
 
 }
 
-.delivery_inputs input { margin-top: 41px;  width: 100%; border-radius: 100px; background-color: transparent; border: solid 1px black;}
+.delivery_inputs input { margin-top: 41px;  width: 100%; border-radius: 100px; background-color: transparent; border: solid 1px black; outline: none; padding-left: 15px;}
 
 .delivery_signs p {margin-top: 42px; }
 
@@ -58,78 +62,10 @@ h3 { padding-top: 30px;}
 
 h4  { padding-top: 15px;}
 
-i {padding-top: 40px; padding-bottom: 40px; }
+i {padding-top: 40px; padding-bottom: 40px; display: inline; }
 
 .bottom_sign {color: black; margin-top: 10px; font-weight: 900; font-size: 30px; background-color: white; padding: 50px 0}
 
+button {background-color: transparent; border: none;}
 
-
-
-
-
-/*.delivery_central_container p {*/
-/*    display: inline-block;*/
-/*    !*margin: 10px 50px;*!*/
-/*}*/
-
-/*input {display: inline-block;*/
-/*}*/
-
-/*.approximate_cost_sign {*/
-/*    margin-right: 100px;*/
-/*}*/
-
-/*.cost_delivery_sign {*/
-/*    margin-left: 100px;*/
-/*}*/
-
-
-
-
-
-
-
-
-
-
-/*.name_sign {position: absolute;*/
-/*right: 1029px;*/
-/*}*/
-
-/*.name_input { margin-left: 80px;*/
-/*}*/
-
-/*.shop_sign { position: absolute;*/
-/*right: 997px;}*/
-
-/*.shop_input { margin-left: 80px;margin-top: 10px; }*/
-
-/*.number_sign {position: absolute;*/
-/*    right: 935px; }*/
-
-/*.number_input { margin-left: 80px;*/
-/*margin-top: 10px;}*/
-
-/*.home_sign {position: absolute;*/
-/*    right: 940px;}*/
-
-/*.home_input {margin-left: 80px;*/
-/*    margin-top: 10px;}*/
-
-
-
-/*.appartament_sign { position: absolute;*/
-/*    right: 940px; }*/
-
-/*.appartament_input { margin-left: 80px;*/
-/*    margin-top: 10px;}*/
-
-/*.flour_sign {position: absolute;*/
-/*    right: 940px;}*/
-
-/*.flour_input {*/
-/*    margin-left: 80px;*/
-/*    margin-top: 10px;*/
-
-/*}*/
-
+a { color: white;}

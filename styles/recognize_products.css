@@ -34,7 +34,7 @@ footer a img{ margin-right: 450px;
 .recognize_central_container {
     padding-top: 100px;
     padding-bottom: 100px   ;
-    background-image: url("../images/recognize.jpg");
+    background-image: url("../images/pablo-merchan-montes-GFW3dJRiMsQ-unsplash.jpg");
 
     background-position: center center;
     background-repeat: no-repeat;
@@ -79,3 +79,9 @@ margin: 10px 10px;
     border-radius: 100px;
     color: white;
 }
+
+i { margin-top: 110px;
+    position: relative; top: 45px;
+}
+
+.functional_buttons button {background-color: transparent; border: transparent; outline: none; }

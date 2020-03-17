@@ -4,7 +4,7 @@ nav { background-color: black;}
     color:white  ;
 }
 
-.navbar a:hover {color: #1e7e34;}
+.navbar a:hover {color: #f6c244;}
 * {
     padding: 0;
     margin: 0; }
@@ -188,6 +188,7 @@ footer a img{ margin-right: 450px;
   width: 30px;
     position: relative;
     padding-top: 90px;
+    right: 960px;
 
 }
 
@@ -196,4 +197,5 @@ footer a img{ margin-right: 450px;
     position: relative;
     padding-top: 90px;
     margin-left: 5px;
+    right: 960px;
 }
